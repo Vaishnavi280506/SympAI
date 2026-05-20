@@ -56,7 +56,7 @@ The goal of this project was to create a professional medical dashboard that sim
 
 ## Live demo
 
-[View it here](https://your-live-demo-link.com)
+[View it here](https://vaishnavi280506.github.io/SympAI/)
 
 ## Built by
 
